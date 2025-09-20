@@ -1,1 +1,1 @@
-Este repositorio es para guardar la información respecto a mi proyecto de titulo para los ramos de portafolio de proyecto, seminario y proyecto de título. Del mismo modo existe para controlar las versiones de EAPAB su futuro.
+EAPAB - Diego Martínez
